@@ -67,3 +67,4 @@
 5. https://www.apeer.com/home 
 6. https://www.upgrad.com/blog/image-segmentation-techniques/#6_Neural_Networks_for_Segmentation 
 7. https://arxiv.org/ftp/arxiv/papers/1707/1707.02051.pdf 
+8. https://arxiv.org/pdf/1902.09063.pdf
