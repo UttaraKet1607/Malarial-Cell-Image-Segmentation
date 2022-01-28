@@ -69,7 +69,7 @@ The data is a repository of segmented cells from the thin blood smear slide imag
 The dataset contains 2 folders
 - Infected
 - Uninfected
-- 
+
 And a total of 27,558 images.
 
 The main aim behind the generation of this data was to reduce the burden for microscopists in resource-constrained regions and improve diagnostic accuracy. The images were manually annotated by an expert slide reader at the Mahidol-Oxford Tropical Medicine Research Unit in Bangkok, Thailand. The de-identified images and annotations are archived at NLM. 
