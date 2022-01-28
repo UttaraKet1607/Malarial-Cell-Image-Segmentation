@@ -64,8 +64,20 @@ Thus it is an end-to-end fully convolutional network so, it only contains Convol
 <img src="https://user-images.githubusercontent.com/67593609/151491400-4e9f7b56-0df5-4931-8baf-7cdc9fe61eba.png" width="600" height="170" align="center"/>
 
 ## About the data
+The data is a repository of segmented cells from the thin blood smear slide images from the Malaria Screener research activity. This data is a result of images taken by a mobile application that runs on a standard Android smartphone attached to a conventional light microscope which was developed by researchers at the Lister Hill National Center for Biomedical Communications (LHNCBC), part of National Library of Medicine (NLM).
+
+The dataset contains 2 folders
+- Infected
+- Uninfected
+And a total of 27,558 images.
+
+The main aim behind the generation of this data was to reduce the burden for microscopists in resource-constrained regions and improve diagnostic accuracy. The images were manually annotated by an expert slide reader at the Mahidol-Oxford Tropical Medicine Research Unit in Bangkok, Thailand. The de-identified images and annotations are archived at NLM (IRB#12972). 
+
+(Source: https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#malaria-datasets)
 
 ### Tasks outline
+
+<img src="https://user-images.githubusercontent.com/67593609/151516069-db326736-d8ad-44eb-beff-648e1acdca3c.png" width="800" height="350"  align="center"/>
 
 ## Resources
 1. https://www.v7labs.com/blog/image-segmentation-guide 
